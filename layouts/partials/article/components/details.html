@@ -14,12 +14,12 @@
 <div class="content_post_button">
     {{ if .PrevInSection }}
     <button onclick="window.location.href = '{{ .PrevInSection.Permalink }}'">
-        <span style="color: var(--primary-color);">上一篇</span><br />{{ .PrevInSection.Title }}
+        <span style="color: var(--primary-color);">{{ .PrevInSection.Title }}</span><br />
     </button>
     {{ end }}
     {{ if .NextInSection }}
     <button onclick="window.location.href = '{{ .NextInSection.Permalink }}'">
-        <span style="color: var(--primary-color);">下一篇</span><br />{{ .NextInSection.Title }}
+        <span style="color: var(--primary-color);">{{ .NextInSection.Title }}</span><br />
     </button>
     {{ end }}
 </div>
