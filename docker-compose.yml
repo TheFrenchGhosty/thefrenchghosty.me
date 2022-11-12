@@ -4,7 +4,7 @@ services:
 
   thefrenchghosty:
     container_name: thefrenchghosty
-    build: .
+    image: quay.io/thefrenchghosty/thefrenchghosty:latest
     restart: unless-stopped
     ports:
       - "127.0.0.1:80:80"
