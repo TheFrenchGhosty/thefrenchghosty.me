@@ -23,10 +23,10 @@
     {{ $style_highlight := resources.Get "css/androidstudio.min.css" | minify | fingerprint }}
     <link rel='stylesheet' type='text/css' href='{{ $style_highlight.RelPermalink }}'/>
     {{ $style_highlightjs := resources.Get "js/highlight.min.js" | minify | fingerprint }}
-    <script src="{{ $style_highlightjs.RelPermalink }}"></script>
+    <!-- <script src="{{ $style_highlightjs.RelPermalink }}"></script>
 
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script> -->
 
 </head>
 <script>
