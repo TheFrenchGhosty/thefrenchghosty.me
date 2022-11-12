@@ -2,14 +2,14 @@ module:
     hugoVersion:
         extended: true
         min: "0.87.0"
-baseURL: http://localhost:1313/
+baseURL: https://thefrenchghosty.me/
 title: TheFrenchGhosty
 keywords: TheFrenchGhosty
-description: TheFrenchGhosty
+description: TheFrenchGhosty's personal website
 paginate: 10
-hasCJKLanguage: true
+# hasCJKLanguage: true
 languageCode: 'en-us'
-theme: # "hugo-theme-onelou"
+# theme: # "hugo-theme-onelou"
 params:
   # opengraph:
   #   github: 'https://github.com/jyygithub'
