@@ -34,22 +34,22 @@ menu:
   navs:
     - name: Projects
       params:
-        img: /img/logo.png
+        img: /img/code-slash.png
       url: /projects
       weight: 1
     - name: Wiki
       params:
-        img: /img/logo.png
+        img: /img/book.png
       url: https://wiki.thefrenchghosty.me/
       weight: 2
     - name: GitHub
       params:
-        img: /img/github.png
+        img: /img/logo-github.png
       url: https://github.com/TheFrenchGhosty
       weight: 3
     - name: Contact
       params:
-        img: /img/logo.png
+        img: /img/mail.png
       url: /contact
       weight: 4
     # - name: Blog
