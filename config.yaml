@@ -32,21 +32,26 @@ params:
     h3: "✧ "
 menu:
   navs:
+    - name: Projects
+      params:
+        img: /img/logo.png
+      url: /projects
+      weight: 1
     - name: Wiki
       params:
         img: /img/logo.png
       url: https://wiki.thefrenchghosty.me/
-      weight: 1
+      weight: 2
     - name: GitHub
       params:
         img: /img/github.png
       url: https://github.com/TheFrenchGhosty
-      weight: 2
+      weight: 3
     - name: Contact
       params:
         img: /img/logo.png
       url: /contact
-      weight: 3
+      weight: 4
     # - name: Blog
     #   params:
     #     img: /img/logo1.png

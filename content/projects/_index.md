@@ -1,3 +1,3 @@
 ---
-title: "My Projects"
+title: "Projects"
 ---
