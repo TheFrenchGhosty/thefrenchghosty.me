@@ -6,16 +6,8 @@
         <label>Made with <a href="https://gohugo.io/">Hugo</a> & based on the  <a href="https://github.com/jyygithub/hugo-theme-onelou">OneLou</a> theme</label>
         {{ end }}
         <label>© {{ .Site.Params.footer.since }} {{ .Site.Params.footer.copyright }}</label>
-    </div>
-    <div>
-        {{ if .Site.Params.footer.gongan }}
-        <img alt="beian" src="img/beian.png"/>
-        <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode={{ .Site.Params.footer.gongan.code }}">
-            {{ .Site.Params.footer.gongan.txt }}</a>
-        {{ end }}
-        {{ if .Site.Params.footer.beian }}
-        <a href="https://beian.miit.gov.cn/">{{ .Site.Params.footer.beian }}</a>
-        {{ end }}
+        <br>
+        <label><a href="https://github.com/TheFrenchGhosty/thefrenchghosty.me">Source Code</a></label>
     </div>
 </footer>
 {{ end }}
