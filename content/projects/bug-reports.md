@@ -1,0 +1,7 @@
+---
+title: "Bug reports"
+date: 2022-11-13T16:58:40+01:00
+draft: false
+description: "Hundreds of bug reports for open source software."
+customURL: "https://github.com/issues?utf8=%E2%9C%93&q=author%3ATheFrenchGhosty+sort%3Aupdated-desc+"
+---
