@@ -10,7 +10,7 @@ draft: false
 
 > E-mail: contact [at] pussthecat [dot] org
 
-> XMPP (use either OMEMO or unencrypted): thefrenchghosty [at] snopyta [dot] org
+> XMPP (use either OMEMO or unencrypted): thefrenchghosty [at] disroot [dot] org
 
 > Fediverse: [@TheFrenchGhosty@libretooth.gr](https://libretooth.gr/@TheFrenchGhosty)
 
