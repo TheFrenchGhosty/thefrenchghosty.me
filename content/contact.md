@@ -12,6 +12,8 @@ draft: false
 
 > XMPP (use either OMEMO or unencrypted): thefrenchghosty [at] disroot [dot] org
 
-> Fediverse: [@TheFrenchGhosty@libretooth.gr](https://libretooth.gr/@TheFrenchGhosty)
+> Fediverse (Mastodon): [@TheFrenchGhosty@libretooth.gr](https://libretooth.gr/@TheFrenchGhosty)
+
+> Fediverse (Lemmy): [@TheFrenchGhosty@lemmy.pussthecat.org](https://lemmy.pussthecat.org/u/TheFrenchGhosty)
 
 > Public Matrix discussion and status room of [PussTheCat.org](https://pussthecat.org), and all my projects: [#pussthecat.org:pussthecat.org](https://matrix.to/#/#pussthecat.org:pussthecat.org)
