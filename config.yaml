@@ -25,7 +25,7 @@ params:
     # gongan:
     #   # code: 公安备案号XXXX
     #   # txt: 京公网安备XXXX号
-    since: 2022
+    since: 2024
     copyright: TheFrenchGhosty
   prefix:
     h2: "※ "
