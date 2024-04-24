@@ -57,11 +57,16 @@ menu:
         img: /img/mail.png
       url: /contact
       weight: 5
+    - name: GPG
+      params:
+        img: /img/key.png
+      url: /gpg
+      weight: 6
     - name: Donate
       params:
         img: /img/wallet.png
       url: /donate
-      weight: 6
+      weight: 7
     # - name: Blog
     #   params:
     #     img: /img/logo1.png

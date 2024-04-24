@@ -1,12 +1,12 @@
 ---
 title: "Contact"
-date: 2023-01-01T00:00:00+01:00
+date: 2024-01-01T00:00:00+01:00
 draft: false
 ---
 
 > Matrix (preferred): [at] thefrenchghosty [colon] pussthecat [dot] org
 
-> GPG-encrypted E-mail (preferred): [Fingerprint: 63785A15077DA2E1F6A462954E616F0FFE25B75B](https://keys.openpgp.org/vks/v1/by-fingerprint/63785A15077DA2E1F6A462954E616F0FFE25B75B)
+> GPG-encrypted E-mail (preferred): See the [GPG page](https://thefrenchghosty.me/gpg/)
 
 > E-mail: contact [at] pussthecat [dot] org
 
