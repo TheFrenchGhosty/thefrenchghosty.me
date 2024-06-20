@@ -52,21 +52,27 @@ menu:
         img: /img/logo-github.png
       url: https://github.com/TheFrenchGhosty
       weight: 4
+    - name: Codeberg
+      params:
+        img: /img/codeberg.png
+      url: https://codeberg.org/TheFrenchGhosty?tab=activity
+      weight: 5
     - name: Contact
       params:
         img: /img/mail.png
       url: /contact
-      weight: 5
+      weight: 6
     - name: GPG
       params:
         img: /img/key.png
       url: /gpg
-      weight: 6
+      weight: 7
 #    - name: Donate
 #      params:
 #        img: /img/wallet.png
 #      url: /donate
-#      weight: 7
+#      weight: 8
+
     # - name: Blog
     #   params:
     #     img: /img/logo1.png
