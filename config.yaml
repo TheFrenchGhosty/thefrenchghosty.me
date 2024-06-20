@@ -32,17 +32,17 @@ params:
     h3: "✧ "
 menu:
   navs:
-    - name: Projects
+    - name: Projets
       params:
         img: /img/code-slash.png
-      url: /projects
+      url: /projets
       weight: 1
-    - name: Blog
-      params:
-        img: /img/pencil.png
-      url: https://blog.thefrenchghosty.me/
-      weight: 2
-    - name: Wiki
+#    - name: Blog
+#      params:
+#        img: /img/pencil.png
+#      url: https://blog.thefrenchghosty.me/
+#      weight: 2
+    - name: Wiki (anglais)
       params:
         img: /img/book.png
       url: https://wiki.thefrenchghosty.me/
@@ -67,11 +67,12 @@ menu:
         img: /img/key.png
       url: /gpg
       weight: 7
-    - name: Donate
-      params:
-        img: /img/wallet.png
-      url: /donate
-      weight: 8
+#    - name: Donate
+#      params:
+#        img: /img/wallet.png
+#      url: /donate
+#      weight: 8
+
     # - name: Blog
     #   params:
     #     img: /img/logo1.png
