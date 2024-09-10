@@ -28,12 +28,12 @@ draft: false
 
 Since we spend money on some things consistently, you can, if you prefer, donate gift cards for those things.
 
-- VPN: Mullvad Gift Cards
+- VPN: [Mullvad Gift Cards](https://mullvad.net/help/partnerships-and-resellers/)
 
-- Music: Bandcamp Gift Cards (E-mail address in the contact page).
+- Music: [Bandcamp Gift Cards](https://bandcamp.com/gift_cards) (E-mail address in the [contact page](https://thefrenchghosty.me/contact)).
 
-- Music: Qobuz Gift Cards (both "streaming" and "downloading" gift cards are useful to us) (E-mail address in the contact page).
+- Music: [Qobuz Gift Cards](https://www.qobuz.com/offer-qobuz) (both "streaming" and "downloading" gift cards are useful to us) (E-mail address in the [contact page](https://thefrenchghosty.me/contact)).
 
 > # Use my Referrals:
 
-- VPS: Hetzner Cloud (you get 20€ of cloud credit without spending anything - we get 10€ of cloud credit after you spend 10€)
+- VPS: [Hetzner Cloud](https://hetzner.cloud/?ref=TNtQVkYhb6az) (you get 20€ of cloud credit without spending anything - we get 10€ of cloud credit after you spend 10€)
