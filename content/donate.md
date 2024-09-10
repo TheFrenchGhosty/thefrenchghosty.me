@@ -8,26 +8,32 @@ draft: false
 
 - Liberapay: https://liberapay.com/TheFrenchGhosty/ (preferred)
 
-Note: Liberapay doesn't take a cut on any donation.
-
-
 - Ko-fi: https://ko-fi.com/TheFrenchGhosty (preferred)
 
-Note: Ko-fi takes a 5% cut on monthly donations (it doesn't take a cut on one time donations).
-
-
 - Patreon: https://www.patreon.com/TheFrenchGhosty
-
-Note: Patreon takes a massive cut on donations: 13% + 0.15€ (for donations of 3€ or less) or 11.4% + 0.35€ (for donations over 3€) only use it if you really can't/don't want to use the others.
 
 ---
 
 > # Donate Cryptocurrencies:
 
-- Monero (XMR): [87Ak7caLNYa7JKEQT4fYSDFsF5GeUZ21pFYtsNaEBSQZ7X8Uca...](monero:87Ak7caLNYa7JKEQT4fYSDFsF5GeUZ21pFYtsNaEBSQZ7X8UcamThvvJeGo3ysuSDHcVAKz5JjX936K7cpJduHBZ5UzhgLZ) (preferred)
-
-- Wownero (WOW): [WW3kVSN33A4AZN4EfT46nYVPVuhV2Mfby5oeuYbZZe34fECAGZ...](wownero:WW3kVSN33A4AZN4EfT46nYVPVuhV2Mfby5oeuYbZZe34fECAGZgBcSiDuHD1crb2n97UqkgiJ1NWxCG7xgAqp8zU36fxcFATQ)
+- Monero (XMR): [87Ak7caLNYa7JKEQT4fYSDFsF5GeUZ21pFYtsNa...](monero:87Ak7caLNYa7JKEQT4fYSDFsF5GeUZ21pFYtsNaEBSQZ7X8UcamThvvJeGo3ysuSDHcVAKz5JjX936K7cpJduHBZ5UzhgLZ) (preferred)
 
 - Bitcoin (BTC): [bc1qvstl5gvkyx8er48lrpyxhlrdn7yrde0zj52rkz](bitcoin:bc1qvstl5gvkyx8er48lrpyxhlrdn7yrde0zj52rkz)
 
 - Litecoin (LTC): [ltc1q6r6jhtktnvv8e80k6jaupe4dmmcxw7tcsrf0jt](litecoin:ltc1q6r6jhtktnvv8e80k6jaupe4dmmcxw7tcsrf0jt)
+
+---
+
+> # Donate Gift Cards:
+
+Since we spend money on some things consistently, you can, if you prefer, donate gift cards for those things.
+
+- VPN: Mullvad Gift Cards
+
+- Music: Bandcamp Gift Cards (E-mail address in the contact page).
+
+- Music: Qobuz Gift Cards (both "streaming" and "downloading" gift cards are useful to us) (E-mail address in the contact page).
+
+> # Use my Referrals:
+
+- VPS: Hetzner Cloud (you get 20€ of cloud credit without spending anything - we get 10€ of cloud credit after you spend 10€)
