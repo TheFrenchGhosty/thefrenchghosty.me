@@ -6,6 +6,10 @@ draft: false
 
 ---
 
+Currently, as of December 2025, I, TheFrenchGhosty, have a really unreliable and low (less than 50% of minimum wage) source of income due to personal issues. Donations are really really appreciated.
+
+---
+
 > # Donate FIAT:
 
 - Liberapay: https://liberapay.com/TheFrenchGhosty/ (preferred)
