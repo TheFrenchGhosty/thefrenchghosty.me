@@ -6,7 +6,7 @@ draft: false
 
 ---
 
-Currently, as of December 2025, I, TheFrenchGhosty, have a really unreliable and low (less than 50% of minimum wage) source of income due to personal issues. Donations are really really appreciated.
+Currently, as of December 2025, I, TheFrenchGhosty, have a really unreliable and low (around 30% of minimum wage / 450€) source of income due to personal health issues. Donations are really really appreciated.
 
 ---
 
