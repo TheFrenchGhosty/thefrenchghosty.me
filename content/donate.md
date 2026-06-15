@@ -4,6 +4,10 @@ date: 2023-01-01T00:00:00+01:00
 draft: false
 ---
 
+Actuellement, et depuis Decembre 2025, moi, TheFrenchGhosty, ai une tres instable et faible (environ 30% du SMIC / 450€) du fait  problèmes de santé personnels. Les dons sont vraiment très appréciés.
+
+---
+
 > # Donate FIAT:
 
 - Liberapay: https://liberapay.com/TheFrenchGhosty/ (preferred)
