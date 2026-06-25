@@ -34,8 +34,29 @@ body {
 
 .back_top {
     position: fixed;
-    right: 1%;
-    bottom: 1%;
+    right: 1.5em;
+    bottom: 1.5em;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    color: var(--primary-color, #343232);
+    background: transparent;
+    border: 1px solid transparent;
+    border-radius: 50%;
+    box-shadow: none;
+    text-decoration: none;
+    z-index: 999;
+    cursor: pointer;
+}
+
+.back_top:hover,
+.back_top:focus {
+    color: var(--content-background-color, #fff);
+    background: var(--primary-color, #343232);
+    border-color: var(--primary-color, #343232);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
 }
 
 .center {
