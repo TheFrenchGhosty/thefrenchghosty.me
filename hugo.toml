@@ -1,5 +1,5 @@
 baseURL = 'https://thefrenchghosty.me/'
-locale = 'en-us'
+locale = 'fr-fr'
 title = 'TheFrenchGhosty'
 theme = 'celadon'
 enableRobotsTXT = true
@@ -7,7 +7,7 @@ enableRobotsTXT = true
   pagerSize = 10
 
 keywords = 'TheFrenchGhosty'
-description = "TheFrenchGhosty's personal website"
+description = "Le site web de TheFrenchGhosty"
 
 [params.nav_external]
   blog = "https://blog.thefrenchghosty.me/"
@@ -26,7 +26,7 @@ description = "TheFrenchGhosty's personal website"
   [params.homepage.projects]
     enable = true
     layout = "cards"
-    title = "Projects"
+    title = "Projets"
     limit = 100
 
   [params.homepage.contact]
@@ -44,7 +44,7 @@ description = "TheFrenchGhosty's personal website"
   [params.homepage.donate]
     enable = true
     layout = "content"
-    title = "Donate"
+    title = "Donation"
     path = "/donate"
 
 [markup]

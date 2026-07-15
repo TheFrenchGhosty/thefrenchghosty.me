@@ -1,17 +1,15 @@
 ---
-title: "Donate"
+title: "Donation"
 ---
 
-Currently, as of December 2025, I, TheFrenchGhosty, have a really unreliable and low (around 30% of minimum wage / 450€) source of income due to personal health issues. Donations are really really appreciated.
-
-## Donate Official Currencies
-- [Liberapay](https://liberapay.com/TheFrenchGhosty/) *(preferred)*
-- [Ko-fi](https://ko-fi.com/TheFrenchGhosty) *(preferred)*
+## Donner de l'argent
+- [Liberapay](https://liberapay.com/TheFrenchGhosty/) *(préféré)*
+- [Ko-fi](https://ko-fi.com/TheFrenchGhosty) *(préféré)*
 - [Patreon](https://www.patreon.com/TheFrenchGhosty)
 
 
-## Donate Cryptocurrencies
-- **Monero (XMR)** *(preferred)*  
+## Donner des cryptomonnaie
+- **Monero (XMR)** *(préféré)*  
   [87Ak7caLNYa7JKEQT4fYSDFsF5GeUZ21pFYtsNaEBSQZ7X8UcamThvvJeGo3ysuSDHcVAKz5JjX936K7cpJduHBZ5UzhgLZ](monero:87Ak7caLNYa7JKEQT4fYSDFsF5GeUZ21pFYtsNaEBSQZ7X8UcamThvvJeGo3ysuSDHcVAKz5JjX936K7cpJduHBZ5UzhgLZ)
 - **Litecoin (LTC)**  
   [ltc1q6r6jhtktnvv8e80k6jaupe4dmmcxw7tcsrf0jt](litecoin:ltc1q6r6jhtktnvv8e80k6jaupe4dmmcxw7tcsrf0jt)

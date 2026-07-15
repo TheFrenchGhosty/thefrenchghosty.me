@@ -1,55 +1,55 @@
 projects:
   - title: "PussTheCat.org"
-    summary: "PussTheCat.org provides access to open source services that are focused on privacy and video games servers."
+    summary: "PussTheCat.org fournit un accès à des services open source axés sur la protection de la vie privée."
     image: "/img/logo.png"
     links:
       - label: "Website"
         url: "https://pussthecat.org/"
 
-  - title: "Bug reports"
-    summary: "Hundreds of bug reports for open source software."
+  - title: "Rapports de bug"
+    summary: "Des centaines de rapports de bug pour des logiciels libres."
     image: "/img/logo.png"
     links:
       - label: "GitHub"
         url: "https://github.com/search?q=author%3ATheFrenchGhosty&type=Issues"
 
   - title: "Invidious"
-    summary: "Invidious is an open source alternative front-end to YouTube."
+    summary: "Invidious est un front-end alternatif open source pour YouTube."
     image: "/img/logo.png"
     links:
       - label: "Website"
         url: "https://invidious.io/"
 
-  - title: "Production-ready Docker images"
-    summary: "A lot of production-ready docker images, on Quay."
+  - title: "Images Docker prêtes à l'emploi en production"
+    summary: "Images docker utilisable en production."
     image: "/img/logo.png"
     links:
       - label: "GitHub"
         url: "https://github.com/PussTheCat-org?q=docker"
 
   - title: "Ultimate YouTube-DL Scripts Collection"
-    summary: "The ultimate collection of scripts for YouTube-DL."
+    summary: "La collection ultime de scripts pour YouTube-DL."
     image: "/img/logo.png"
     links:
       - label: "GitHub"
         url: "https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection"
 
   - title: "Ultimate Firefox Configuration"
-    summary: "The ultimate Firefox configuration that is acceptable Privacy-Wise while being as much feature-packed as possible."
+    summary: "La configuration ultime de Firefox qui est acceptable du point de vue de la vie privée tout en étant aussi riche en fonctionnalités que possible."
     image: "/img/logo.png"
     links:
       - label: "GitHub"
         url: "https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-Firefox-Configuration"
 
   - title: "GOG Archivist Scripts"
-    summary: "The ultimate collection of scripts to download everything you bought on GOG.com."
+    summary: "La collection ultime de scripts pour télécharger tout ce que vous avez acheté sur GOG.com."
     image: "/img/logo.png"
     links:
       - label: "GitHub"
         url: "https://github.com/TheFrenchGhosty/TheFrenchGhostys-GOG-Archivist-Scripts"
 
   - title: "Awesome Art"
-    summary: "A curated list of as much artistic creations (movies/musics/games/books...) that are worth checking."
+    summary: "Une liste de toutes les créations artistiques (films/musiques/jeux/livres...) qui valent la peine d'être appréciées."
     image: "/img/logo.png"
     links:
       - label: "GitHub"
