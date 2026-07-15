@@ -1,9 +1,10 @@
 baseURL = 'https://thefrenchghosty.me/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'TheFrenchGhosty'
 theme = 'celadon'
 enableRobotsTXT = true
-paginate = 10
+[pagination]
+  pagerSize = 10
 
 keywords = 'TheFrenchGhosty'
 description = "TheFrenchGhosty's personal website"
@@ -71,6 +72,6 @@ description = "TheFrenchGhosty's personal website"
 
 [[cascade]]
   layout = "single"
-  [cascade._target]
+  [cascade.target]
     path = "/**"
     kind = "page"
