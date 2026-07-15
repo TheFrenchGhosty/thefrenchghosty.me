@@ -1,4 +1,4 @@
-baseURL = 'https://thefrenchghosty.me/'
+baseURL = 'https://fr.thefrenchghosty.me/'
 locale = 'fr-fr'
 title = 'TheFrenchGhosty'
 theme = 'celadon'
