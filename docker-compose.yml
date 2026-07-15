@@ -1,7 +1,4 @@
-version: '3.0'
-
 services:
-
   thefrenchghosty:
     container_name: thefrenchghosty
     image: quay.io/thefrenchghosty/thefrenchghosty:latest

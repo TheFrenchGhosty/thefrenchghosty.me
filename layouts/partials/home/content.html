@@ -1,0 +1,14 @@
+{{ $section := .Section }}
+{{ $config := .Config }}
+{{ $title := default (humanize $section) $config.title }}
+{{ $path := $config.path }}
+{{ $page := site.GetPage $path }}
+<section id="{{ $section }}" class="section-block">
+  <div class="section-heading">
+    <span class="bar"></span>
+    <div><h2>{{ $title }}</h2></div>
+  </div>
+  {{ with $page }}
+    <div class="article-content markdown-body">{{ .Content }}</div>
+  {{ end }}
+</section>

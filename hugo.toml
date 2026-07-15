@@ -1,0 +1,76 @@
+baseURL = 'https://thefrenchghosty.me/'
+languageCode = 'en-us'
+title = 'TheFrenchGhosty'
+theme = 'celadon'
+enableRobotsTXT = true
+paginate = 10
+
+keywords = 'TheFrenchGhosty'
+description = "TheFrenchGhosty's personal website"
+
+[params.nav_external]
+  blog = "https://blog.thefrenchghosty.me/"
+  wiki = "https://wiki.thefrenchghosty.me/"
+  github = "https://github.com/TheFrenchGhosty"
+
+[params.homepage]
+  sections = ["hero", "projects", "donate", "contact", "gpg"]
+
+  [params.homepage.hero]
+    enable = true
+    layout = "hero"
+    title = "About"
+    showInMenu = false
+
+  [params.homepage.projects]
+    enable = true
+    layout = "cards"
+    title = "Projects"
+    limit = 100
+
+  [params.homepage.contact]
+    enable = true
+    layout = "content"
+    title = "Contact"
+    path = "/contact"
+
+  [params.homepage.gpg]
+    enable = true
+    layout = "content"
+    title = "GPG"
+    path = "/gpg"
+
+  [params.homepage.donate]
+    enable = true
+    layout = "content"
+    title = "Donate"
+    path = "/donate"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        enableInShortcodes = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [
+            ["\\[", "\\]"],
+            ["$$", "$$"]
+          ]
+          inline = [
+            ["\\(", "\\)"],
+            ["$", "$"]
+          ]
+  [markup.highlight]
+    style = "friendly"
+    noClasses = false
+    lineNos = true
+    guessSyntax = true
+
+[[cascade]]
+  layout = "single"
+  [cascade._target]
+    path = "/**"
+    kind = "page"
