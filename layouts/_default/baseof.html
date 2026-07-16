@@ -3,6 +3,21 @@
     <head>
         {{ partial "head.html" . }}
     <style>
+      body[data-theme="dark"] {
+        --color-bg: #181926;
+        --color-surface: #363a4f;
+        --color-surface-muted: #494d64;
+        --color-text: #ffffff;
+        --color-muted: #a5adcb;
+        --color-secondary: #5b6078;
+        --color-primary: #55ffff;
+        --color-highlight: #55ffff;
+        --color-highlight-soft: rgba(85, 255, 255, 0.15);
+      }
+      body[data-theme="dark"] .morandi-nav {
+        background: rgba(54, 58, 79, 0.9);
+        border-color: rgba(85, 255, 255, 0.25);
+      }
       .brand .dot,
       .section-heading .bar,
       .chip-link,
