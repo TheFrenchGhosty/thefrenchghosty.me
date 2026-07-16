@@ -2,20 +2,35 @@
 <html lang="{{ site.Language.LanguageCode | default `en` }}">
     <head>
         {{ partial "head.html" . }}
-        <style>
-            .brand .dot,
-            .section-heading .bar,
-            .chip-link,
-            .chip-link:hover,
-            .chip-link:focus-visible,
-            #scroll-top {
-                background: #55ffff;
-            }
-            .markdown-body a:hover,
-            .markdown-body a:focus-visible {
-                color: #55ffff;
-            }
-        </style>
+    <style>
+      body[data-theme="dark"] {
+        --color-bg: #181926;
+        --color-surface: #363a4f;
+        --color-surface-muted: #494d64;
+        --color-text: #ffffff;
+        --color-muted: #a5adcb;
+        --color-secondary: #5b6078;
+        --color-primary: #55ffff;
+        --color-highlight: #55ffff;
+        --color-highlight-soft: rgba(85, 255, 255, 0.15);
+      }
+      body[data-theme="dark"] .morandi-nav {
+        background: rgba(54, 58, 79, 0.9);
+        border-color: rgba(85, 255, 255, 0.25);
+      }
+      .brand .dot,
+      .section-heading .bar,
+      .chip-link,
+      .chip-link:hover,
+      .chip-link:focus-visible,
+      #scroll-top {
+        background: #55ffff;
+      }
+      .markdown-body a:hover,
+      .markdown-body a:focus-visible {
+        color: #55ffff;
+      }
+    </style>
     </head>
     <body data-theme="light">
         <div class="page-shell">
@@ -25,8 +40,8 @@
                     <a href="{{ site.Home.Permalink }}">{{ site.Title }}</a>
                 </div>
                 <div class="nav-links">
-                    <a href="{{ site.Home.Permalink }}">Accueil</a>
-                    <a href="{{ site.Home.Permalink }}#projects">Projets</a>
+                    <a href="{{ site.Home.Permalink }}">Home</a>
+                    <a href="{{ site.Home.Permalink }}#projects">Projects</a>
                     <a
                         href="{{ site.Params.nav_external.blog }}"
                         target="_blank"
@@ -45,7 +60,7 @@
                         rel="noopener"
                         >GitHub</a
                     >
-                    <a href="{{ site.Home.Permalink }}#donate">Donation</a>
+                    <a href="{{ site.Home.Permalink }}#donate">Donate</a>
                     <a href="{{ site.Home.Permalink }}#contact">Contact</a>
                     <a href="{{ site.Home.Permalink }}#gpg">GPG</a>
                 </div>
