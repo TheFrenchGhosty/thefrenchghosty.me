@@ -16,5 +16,6 @@ title: "Donation"
 - **Bitcoin (BTC)**  
   [bc1qvstl5gvkyx8er48lrpyxhlrdn7yrde0zj52rkz](bitcoin:bc1qvstl5gvkyx8er48lrpyxhlrdn7yrde0zj52rkz)
 
-##  Use our Referrals
-- **AI LLM**: [NanoGPT](https://nano-gpt.com/r/UxV8amQa) - like OpenRouter (access to hundreds of LLMs from one platform) but far cheaper: You get 5% permanent discount - we get 10% of what you spend
+## Utiliser nos liens affiliés
+- **IA LLM**: [NanoGPT](https://nano-gpt.com/r/UxV8amQa) - Similaire à OpenRouter - une seul API pour accéder à n'importe quel modèle - mais beaucoup moins cher (ils n'ajoutent aucun frais au prix originaux) et avec une un abonnement vraiment intéressant (vous bénéficiez de manière permanente d'une réduction de 5 % sur tout - nous recevont de manière permanente 10 % de ce que vous dépensez)
+- **IA LLM**: [OpenCode Go](https://opencode.ai/go?ref=2PBP15XNEJ) - Un abonnement peu cher à 10$ (5$ le premier mois) qui vous offre 60$ de crédit d'utilisation sur de nombreux modèles différents (nous recevons chacun 5$ de crédit d'utilisation lorsque vous vous abonnez)
