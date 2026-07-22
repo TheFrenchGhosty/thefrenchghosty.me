@@ -19,4 +19,5 @@ Currently, as of December 2025, I, TheFrenchGhosty, have a really unreliable and
   [bc1qvstl5gvkyx8er48lrpyxhlrdn7yrde0zj52rkz](bitcoin:bc1qvstl5gvkyx8er48lrpyxhlrdn7yrde0zj52rkz)
 
 ##  Use our Referrals
-- **AI LLM**: [NanoGPT](https://nano-gpt.com/r/UxV8amQa) - like OpenRouter (access to hundreds of LLMs from one platform) but far cheaper: You get 5% permanent discount - we get 10% of what you spend
+- **AI LLM**: [NanoGPT](https://nano-gpt.com/r/UxV8amQa) - Like OpenRouter - a single API to access any model - but far cheaper (they don't add any fees to the upstream price) and with a really good subscription (you permanently get 5% discount on everything - we permanently get 10% of what you spend)
+- **AI LLM**: [OpenCode Go](https://opencode.ai/go?ref=2PBP15XNEJ) - A $10 ($5 the first month) cheap subscription that give you $60 of usage credit on a lot of different models (we both get $5 of usage credit when you subscribe)
