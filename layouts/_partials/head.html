@@ -15,6 +15,9 @@
 {{ $css := resources.Get "css/main.css" | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $css.Permalink }}" integrity="{{ $css.Data.Integrity }}">
 
+{{ $custom := resources.Get "css/custom.css" | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $custom.Permalink }}" integrity="{{ $custom.Data.Integrity }}">
+
 <link rel="stylesheet" href="{{ "vendor/katex/katex.min.css" | absURL }}">
 <script defer src="{{ "vendor/katex/katex.min.js" | absURL }}"></script>
 <script defer src="{{ "vendor/katex/auto-render.min.js" | absURL }}"></script>
