@@ -44,3 +44,4 @@ jobs:
           push: true
           tags: quay.io/thefrenchghosty/thefrenchghosty:french
           build-args: release=1
+          provenance: false
