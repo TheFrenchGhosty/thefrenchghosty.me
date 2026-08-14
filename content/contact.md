@@ -4,7 +4,7 @@ title: "Contact"
 
 - **E-mail (chiffré par GPG)** *(préféré)* - voir la section [clé GPG](#gpg).
 - **Email** *(préféré)*: `contact [at] pussthecat [dot] org`
-- **Matrix**: `@thefrenchghosty:pussthecat.org`
+- **Matrix**: `@thefrenchghosty:tchncs.de`
 - **XMPP** *(utilisez soit OMEMO soit non chiffré)*: `thefrenchghosty [at] disroot [dot] org`
 - **Fediverse (Mastodon)**: [@TheFrenchGhosty@libretooth.gr](https://libretooth.gr/@TheFrenchGhosty)
 
